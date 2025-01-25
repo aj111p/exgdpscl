@@ -1,0 +1,18 @@
+{
+    "id": 100,
+    "name": "First level",
+    "author": "Vobo",
+    "creators": ["Vobo"],
+    "verifier": "Vobo",
+    "verification": "https://youtu.be/l6ir4tgboGE?si=08z9EZhycqf-pTo8",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Test",
+            "link": "test",
+            "percent": -7968687,
+            "hz": -420
+        }
+    ]
+}
