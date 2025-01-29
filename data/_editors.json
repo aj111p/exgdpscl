@@ -1,5 +1,6 @@
 [
         {
-        "role": "dep",
+        "role": "dev",
         "name": "list helpers are listed in the Discord"
+        "link": ""
     },
