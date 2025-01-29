@@ -1,27 +1,32 @@
 [
     {
         "role": "owner",
-        "name": "List Owner -- viviii",
+        "name": "List Owner: viviii",
         "link": ""
     },
     {
         "role": "admin",
-        "name": "List Admin -- TWISTED"
+        "name": "List Admin: TWISTED"
         "link": ""
     },
     {
-        "role": "helper",
-        "name": "List Helper -- IXRC",
+        "role": "tadmin",
+        "name": "Trial List Admin: Nobody"
         "link": ""
     },
     {
-        "role": "trial",
-        "name": "Trial List Helper -- nobody",
+        "role": "help",
+        "name": "List Helper: IXRC",
+        "link": ""
+    },
+    {
+        "role": "thelp",
+        "name": "Trial List Helper: nobody",
         "link": ""
     },
     {
         "role": "dev",
-        "name": "List Coder -- viviii",
+        "name": "List Coder: viviii",
         "link": ""
     }
 ]
