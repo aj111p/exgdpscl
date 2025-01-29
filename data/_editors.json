@@ -6,17 +6,17 @@
     },
     {
         "role": "admin",
-        "name": "List Admins(0/2) -- nobody :3"
+        "name": "List Admins -- nobody"
         "link": ""
     },
     {
         "role": "helper",
-        "name": "List Helpers(2/6) -- Twisted, IXRC",
+        "name": "List Helpers -- Twisted, IXRC",
         "link": ""
     },
     {
         "role": "trial",
-        "name": "Trial List Helper(0/4) -- nobody :3",
+        "name": "Trial List Helper -- nobody",
         "link": ""
     },
     {
