@@ -1,32 +1,5 @@
 [
-    {
-        "role": "owner",
-        "name": "List Owner: viviii",
-        "link": ""
+        {
+        "role": "dep",
+        "name": "list helpers are listed in the Discord"
     },
-    {
-        "role": "admin",
-        "name": "List Admin: TWISTED"
-        "link": ""
-    },
-    {
-        "role": "tadmin",
-        "name": "Trial List Admin: Nobody"
-        "link": ""
-    },
-    {
-        "role": "help",
-        "name": "List Helper: IXRC",
-        "link": ""
-    },
-    {
-        "role": "thelp",
-        "name": "Trial List Helper: nobody",
-        "link": ""
-    },
-    {
-        "role": "dev",
-        "name": "List Coder: viviii",
-        "link": ""
-    }
-]
