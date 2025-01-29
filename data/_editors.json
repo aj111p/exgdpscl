@@ -2,17 +2,17 @@
 [
     {
         "role": "owner",
-        "name": "List Owner - viviii",
+        "name": "List Owner",
         "link": ""
     },
     {
         "role": "admin",
-        "name": "List Admin - TWISTED"
+        "name": "List Admin"
         "link": ""
     },
     {
         "role": "helper",
-        "name": "List Helper - IXRC",
+        "name": "List Helper",
         "link": ""
     },
     {
@@ -22,7 +22,7 @@
     },
     {
         "role": "dev",
-        "name": "List Coder - viviii",
+        "name": "List Coder",
         "link": ""
     }
 ]
