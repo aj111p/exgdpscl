@@ -1,1 +1,28 @@
-# list editors are listed in discord.
+
+[
+    {
+        "role": "owner",
+        "name": "List Owner: viviii",
+        "link": ""
+    },
+    {
+        "role": "admin",
+        "name": "List Admins: nobody"
+        "link": ""
+    },
+    {
+        "role": "helper",
+        "name": "List Helpers: Twisted, IXRC",
+        "link": ""
+    },
+    {
+        "role": "trial",
+        "name": "Trial List Helpers: Nobody"
+        "link": ""
+    },
+    {
+        "role": "dev",
+        "name": "List Coder: viviii",
+        "link": ""
+    }
+]
