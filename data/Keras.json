@@ -3,10 +3,15 @@
     "name": "Keras",
     "author": "Virek",
     "creators": ["Virek"],
-    "verifier": "5OUR4E",
+    "verifier": "Virek",
     "verification": "https://youtu.be/SoUwZ7KoEn0",
     "percentToQualify": "65",
     "password": "Free To Copy",
-    "records": [
+    "records": [{
+            "user": "iXRC",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            "percent": 100,
+            "hz": 60
+    }
     ]
 }
