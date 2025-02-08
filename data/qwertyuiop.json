@@ -13,6 +13,11 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },{
+            "user": "iXRC",
+            "link": "https://ouch",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
