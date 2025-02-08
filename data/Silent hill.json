@@ -1,0 +1,18 @@
+{
+    "id": 1030,
+    "name": "Silent hill",
+    "author": "Virek",
+    "creators": ["Virek"],
+    "verifier": "Virek",
+    "verification": "https://youtu.be/jy-XDprCJCE",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "iXRC",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
