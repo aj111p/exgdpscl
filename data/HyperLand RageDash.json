@@ -1,0 +1,17 @@
+{
+    "id": 1632,
+    "name": "HyperLand RageDash",
+    "author": "RebelRiver",
+    "creators": ["RebelRiver"],
+    "verifier": "DarkX",
+    "verification": "https://m.youtube.com/watch?v=Lda9mMosmvc",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [{
+            "user": "iXRC",
+            "link": "https://ouch",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
