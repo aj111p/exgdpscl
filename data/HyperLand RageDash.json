@@ -8,16 +8,10 @@
     "percentToQualify": "30",
     "password": "Free To Copy",
     "records": [{
-                "user": "iXRC",
-                "link": "https://ouch",
-                "percent": 100,
-                "hz": 60
-            },
-            {
-                "user": "viviii",
-                "link": "https://fuck",
-                "percent": 100,
-                "hz": 240,
+            "user": "iXRC",
+            "link": "https://ouch",
+            "percent": 100,
+            "hz": 60
             }
     ]
 }
